@@ -268,14 +268,14 @@ header {
     background-image: url("Media/Flower Asset/Rectangle 9.png");
 }
 
-.inputt {
+.inputt{
     width: 700px;
     height: 64px;
     flex-shrink: 0;
     width: 730px;
     height: 34px;
     flex-shrink: 0;
-    Border 0;
+    Border:0;
 
 
 }
