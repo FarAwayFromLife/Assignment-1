@@ -60,6 +60,72 @@ body {
 
 
 
+/* **************Feature********** */
+
+.feature {
+    text-align: center;
+}
+
+.firstfeature{
+    
+}
+
+
+.featureimage {
+    display: flex;
+    justify-content: center;
+}
+
+.firstflower {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+}
+
+.flowerpara {
+    color: #272727;
+    text-align: center;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;
+}
+
+.secondflower {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+}
+
+.thirdflower {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+}
+
+
+
+.featuretitle {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.featurepara {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+
+
+
+
+
+
 
 
 .main-hot {
@@ -109,8 +175,7 @@ body {
 /* footer */
 .footer {
     background-color: black;
-    /* text-align: center; */
-
+    text-align: center;
 }
 
 .footertitle {
@@ -122,12 +187,13 @@ body {
 .footer-para {
 
     color: rgba(255, 255, 255, 0.90);
-    text-align: center;
     font-family: Lato;
     font-size: 18px;
     font-style: normal;
     font-weight: 400;
     line-height: 30px;
+
+
 
 }
 
