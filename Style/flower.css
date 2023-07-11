@@ -12,34 +12,35 @@ body {
 }
 
 /* set primary color (pink) */
-.primary-color {
+.primary-box {
     background-color: #E55473;
     color: #fff;
     border: 0;
     border-radius: 8px;
 }
 
+.primary-color {
+    color: #E55473;
+}
+
+
 .intro {
 
     width: 708px;
     height: 288;
-    
-    margin: 197px 972px 32px 240px;
+    margin: 197px 97px 32px 240px;
 }
 
-.para{
-width: 634px;
-margin: 0px 1046px 32px 240px;
+.para {
+    width: 634px;
+    margin: 0px 171px 32px 240px;
 }
 
 #shopnow {
     gap: 10px;
     font-size: 20px;
     padding: 20px 43px 20px 43px;
-    margin:0px 1503px 147px 240px;
-    
-   
-   
+    margin: 0px 628px 147px 240px;
 }
 
 .content-banner {
@@ -50,9 +51,68 @@ margin: 0px 1046px 32px 240px;
     background-color: #E554731A;
 }
 
-.intro-flower{
-    height: 800px;
+.intro-image {
     width: 635px;
-    margin: 50px 240px 0px 1045px;
+    height: 800px;
+    margin: 50px 240px 0px 0px;
+
+}
+
+
+
+
+
+.main-hot{
+    background-color: #E554730D;
+    display: flex;
+
+}
+
+
+.hot-intro{
+    margin: 230px 215px 342px 423px ;
+    text-align: center;
+}
+
+.hot-title {
+    color: #272727;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-bottom: 24px;
+}
+
+.hot-para {
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;   
+    margin-bottom: 24px;
+}
+
+#hot-box{
+    gap: 10px;
+    font-size: 20px;
+    padding: 20px 43px 20px 43px;
     
+}
+
+.hot-image{
+    width: 318px;
+    height: 420px;
+    margin: 100px 429px 100px 215px;
+}
+
+/* footer */
+.footertitle{
+    background-color: #111010;
+
+
+font-size: 48px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
 }
