@@ -1,0 +1,58 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+
+/* font */
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* set primary color (pink) */
+.primary-color {
+    background-color: #E55473;
+    color: #fff;
+    border: 0;
+    border-radius: 8px;
+}
+
+.intro {
+
+    width: 708px;
+    height: 288;
+    
+    margin: 197px 972px 32px 240px;
+}
+
+.para{
+width: 634px;
+margin: 0px 1046px 32px 240px;
+}
+
+#shopnow {
+    gap: 10px;
+    font-size: 20px;
+    padding: 20px 43px 20px 43px;
+    margin:0px 1503px 147px 240px;
+    
+   
+   
+}
+
+.content-banner {
+    display: flex;
+}
+
+.header {
+    background-color: #E554731A;
+}
+
+.intro-flower{
+    height: 800px;
+    width: 635px;
+    margin: 50px 240px 0px 1045px;
+    
+}
